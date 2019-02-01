@@ -1,0 +1,440 @@
+2018-11-18 19:21:02 INFO     Starting Logging ...
+2018-11-18 19:21:19 INFO     
+2018-11-18 19:21:20 INFO     
+2018-11-18 19:21:20 INFO     
+2018-11-18 19:21:20 INFO     
+2018-11-18 19:23:38 INFO     aggie server list
+2018-11-18 19:23:38 INFO     SUCCESS
+2018-11-18 19:23:58 INFO     aggiestack admin show instances
+2018-11-18 19:23:58 INFO     SUCCESS
+2018-11-18 19:23:58 INFO     SUCCESS
+2018-11-18 19:24:01 INFO     agie
+2018-11-18 19:25:38 INFO     Starting Logging ...
+2018-11-18 19:26:19 INFO     aggiestack server delete m23
+2018-11-18 22:45:42 INFO     exxit
+2018-11-24 21:38:52 INFO     Starting Logging ...
+2018-11-24 21:39:07 INFO      aggiestack config --hardware hdwr-config.txt
+2018-11-24 21:39:07 INFO     SUCCESS
+2018-11-24 21:39:08 INFO     
+2018-11-24 21:39:21 INFO     aggiestack admin show hardware
+2018-11-24 21:39:21 INFO     SUCCESS
+2018-11-24 21:39:21 INFO     SUCCESS
+2018-11-24 21:39:53 INFO      aggiestack show all
+2018-11-24 21:39:53 INFO     SUCCESS
+2018-11-24 21:39:53 INFO     SUCCESS
+2018-11-24 21:40:18 INFO      aggiestack admin evacuate r1
+2018-11-24 21:40:50 INFO     Starting Logging ...
+2018-11-24 21:40:52 INFO      aggiestack admin evacuate r1
+2018-11-24 21:41:47 INFO     Starting Logging ...
+2018-11-24 21:41:50 INFO      aggiestack config --hardware hdwr-config.txt
+2018-11-24 21:41:50 INFO     SUCCESS
+2018-11-24 21:41:54 INFO      aggiestack show all
+2018-11-24 21:41:54 INFO     SUCCESS
+2018-11-24 21:41:54 INFO     SUCCESS
+2018-11-24 21:41:58 INFO      aggiestack admin evacuate r1
+2018-11-24 21:43:38 INFO     Starting Logging ...
+2018-11-24 21:43:40 INFO      aggiestack config --hardware hdwr-config.txt
+2018-11-24 21:43:40 INFO     SUCCESS
+2018-11-24 21:43:43 INFO      aggiestack admin evacuate r1
+2018-11-24 21:43:55 INFO     Starting Logging ...
+2018-11-24 21:43:57 INFO      aggiestack config --hardware hdwr-config.txt
+2018-11-24 21:43:57 INFO     SUCCESS
+2018-11-24 21:44:00 INFO      aggiestack admin evacuate r1
+2018-11-24 21:44:23 INFO     Starting Logging ...
+2018-11-24 21:44:25 INFO      aggiestack config --hardware hdwr-config.txt
+2018-11-24 21:44:25 INFO     SUCCESS
+2018-11-24 21:44:29 INFO      aggiestack admin evacuate r1
+2018-11-24 21:44:29 INFO     SUCCESS
+2018-11-24 21:44:32 INFO      aggiestack show all
+2018-11-24 21:44:32 INFO     SUCCESS
+2018-11-24 21:44:32 INFO     SUCCESS
+2018-11-24 21:47:55 INFO      aggiestack admin evacuate r2
+2018-11-24 21:47:55 INFO     SUCCESS
+2018-11-24 21:47:57 INFO      aggiestack show all
+2018-11-24 21:47:57 INFO     SUCCESS
+2018-11-24 21:47:57 INFO     SUCCESS
+2018-11-24 21:51:06 INFO     quit
+2018-11-24 21:51:06 INFO     SUCCESS
+2018-11-24 21:51:06 INFO     Validation Finished ...
+2018-11-24 21:51:08 INFO     Starting Logging ...
+2018-11-24 21:51:11 INFO      aggiestack config --hardware hdwr-config.txt
+2018-11-24 21:51:11 INFO     SUCCESS
+2018-11-24 21:51:15 INFO      aggiestack show all
+2018-11-24 21:51:15 INFO     SUCCESS
+2018-11-24 21:51:15 INFO     SUCCESS
+2018-11-24 21:51:20 INFO      aggiestack admin evacuate r1
+2018-11-24 21:51:36 INFO     Starting Logging ...
+2018-11-24 21:51:38 INFO      aggiestack config --hardware hdwr-config.txt
+2018-11-24 21:51:38 INFO     SUCCESS
+2018-11-24 21:51:41 INFO      aggiestack show all
+2018-11-24 21:51:41 INFO     SUCCESS
+2018-11-24 21:51:41 INFO     SUCCESS
+2018-11-24 21:51:44 INFO      aggiestack admin evacuate r1
+2018-11-24 21:51:44 INFO     SUCCESS
+2018-11-24 21:51:46 INFO      aggiestack show all
+2018-11-24 21:51:46 INFO     SUCCESS
+2018-11-24 21:51:46 INFO     SUCCESS
+2018-11-24 21:51:51 INFO      aggiestack admin evacuate r1
+2018-11-24 21:51:51 INFO     SUCCESS
+2018-11-24 21:51:55 INFO      aggiestack show all
+2018-11-24 21:51:55 INFO     SUCCESS
+2018-11-24 21:51:55 INFO     SUCCESS
+2018-11-24 21:51:57 INFO      aggiestack admin evacuate r2
+2018-11-24 21:51:57 INFO     SUCCESS
+2018-11-24 21:52:01 INFO      aggiestack show all
+2018-11-24 21:52:01 INFO     SUCCESS
+2018-11-24 21:52:01 INFO     SUCCESS
+2018-11-24 21:52:38 INFO     quit
+2018-11-24 21:52:38 INFO     SUCCESS
+2018-11-24 21:52:38 INFO     Validation Finished ...
+2018-11-24 21:52:39 INFO     Starting Logging ...
+2018-11-24 21:52:44 INFO      aggiestack config --hardware hdwr-config.txt
+2018-11-24 21:52:44 INFO     SUCCESS
+2018-11-24 21:52:47 INFO      aggiestack admin evacuate r1
+2018-11-24 21:52:47 INFO     SUCCESS
+2018-11-24 21:52:48 INFO      aggiestack show all
+2018-11-24 21:52:48 INFO     SUCCESS
+2018-11-24 21:52:48 INFO     SUCCESS
+2018-11-24 21:52:53 INFO      aggiestack admin evacuate r2
+2018-11-24 21:52:53 INFO     SUCCESS
+2018-11-24 21:52:55 INFO      aggiestack show all
+2018-11-24 21:52:55 INFO     SUCCESS
+2018-11-24 21:52:55 INFO     SUCCESS
+2018-11-24 21:54:43 INFO      aggiestack show al
+2018-11-24 21:54:45 INFO     quit
+2018-11-24 21:54:45 INFO     SUCCESS
+2018-11-24 21:54:45 INFO     Validation Finished ...
+2018-11-24 21:54:47 INFO     Starting Logging ...
+2018-11-24 21:54:51 INFO      aggiestack config --hardware hdwr-config.txt
+2018-11-24 21:54:51 INFO     SUCCESS
+2018-11-24 21:54:53 INFO      aggiestack show all
+2018-11-24 21:54:53 INFO     SUCCESS
+2018-11-24 21:54:53 INFO     SUCCESS
+2018-11-24 21:54:56 INFO      aggiestack admin evacuate r2
+2018-11-24 21:54:56 INFO     SUCCESS
+2018-11-24 21:54:58 INFO      aggiestack show all
+2018-11-24 21:54:58 INFO     SUCCESS
+2018-11-24 21:54:58 INFO     SUCCESS
+2018-11-24 21:55:00 INFO      aggiestack admin evacuate r1
+2018-11-24 21:55:00 INFO     SUCCESS
+2018-11-24 21:55:03 INFO      aggiestack show all
+2018-11-24 21:55:03 INFO     SUCCESS
+2018-11-24 21:55:03 INFO     SUCCESS
+2018-11-24 21:57:23 INFO     quit
+2018-11-24 21:57:23 INFO     SUCCESS
+2018-11-24 21:57:23 INFO     Validation Finished ...
+2018-11-24 21:57:25 INFO     Starting Logging ...
+2018-11-24 21:57:28 INFO      aggiestack show all
+2018-11-24 21:57:28 INFO     SUCCESS
+2018-11-24 21:57:32 INFO      aggiestack config --hardware hdwr-config.txt
+2018-11-24 21:57:32 INFO     SUCCESS
+2018-11-24 21:57:34 INFO      aggiestack show al
+2018-11-24 21:57:36 INFO      aggiestack show all
+2018-11-24 21:57:36 INFO     SUCCESS
+2018-11-24 21:57:36 INFO     SUCCESS
+2018-11-24 21:57:48 INFO      aggiestack admin evacuate r2
+2018-11-24 21:57:48 INFO     SUCCESS
+2018-11-24 21:57:51 INFO      aggiestack show all
+2018-11-24 21:57:51 INFO     SUCCESS
+2018-11-24 21:57:51 INFO     SUCCESS
+2018-11-24 21:57:57 INFO      aggiestack admin evacuate r1
+2018-11-24 21:57:57 INFO     SUCCESS
+2018-11-24 21:57:58 INFO      aggiestack show all
+2018-11-24 21:57:58 INFO     SUCCESS
+2018-11-24 21:57:58 INFO     SUCCESS
+2018-11-24 21:58:11 INFO      aggiestack show all
+2018-11-24 21:58:11 INFO     SUCCESS
+2018-11-24 21:58:11 INFO     SUCCESS
+2018-11-24 21:58:28 INFO                 tempList.append(hwData.rack)
+2018-11-24 21:58:31 INFO     Starting Logging ...
+2018-11-24 21:58:37 INFO      aggiestack config --hardware hdwr-config.txt
+2018-11-24 21:58:37 INFO     SUCCESS
+2018-11-24 21:58:38 INFO     aggiestack show hardware
+2018-11-24 21:58:38 INFO     SUCCESS
+2018-11-24 21:58:44 INFO      aggiestack admin evacuate r1
+2018-11-24 21:58:44 INFO     SUCCESS
+2018-11-24 21:58:52 INFO      aggiestack admin evacuate r1
+2018-11-24 22:03:22 INFO     Starting Logging ...
+2018-11-24 22:03:24 INFO      aggiestack config --hardware hdwr-config.txt
+2018-11-24 22:03:24 INFO     SUCCESS
+2018-11-24 22:03:26 INFO      aggiestack show all
+2018-11-24 22:03:26 INFO     SUCCESS
+2018-11-24 22:03:26 INFO     SUCCESS
+2018-11-24 22:03:28 INFO      aggiestack admin evacuate r1
+2018-11-24 22:03:28 INFO     SUCCESS
+2018-11-24 22:03:29 INFO      aggiestack admin evacuate r1
+2018-11-24 22:03:29 INFO     SUCCESS
+2018-11-24 22:03:33 INFO      aggiestack show all
+2018-11-24 22:03:33 INFO     SUCCESS
+2018-11-24 22:03:33 INFO     SUCCESS
+2018-11-24 22:03:36 INFO      aggiestack admin evacuate r2
+2018-11-24 22:03:36 INFO     SUCCESS
+2018-11-24 22:03:40 INFO      aggiestack admin evacuate r2
+2018-11-24 22:03:40 INFO     SUCCESS
+2018-11-24 22:03:48 INFO     aggiestack show hardware
+2018-11-24 22:03:48 INFO     SUCCESS
+2018-11-24 22:10:55 INFO     aggiestack server create --image linux-ubuntu-16 --flavor small ins1
+2018-11-24 22:11:31 INFO     Starting Logging ...
+2018-11-24 22:11:35 INFO      aggiestack config --hardware hdwr-config.txt
+2018-11-24 22:11:35 INFO     SUCCESS
+2018-11-24 22:11:43 INFO      server create --image linux-ubuntu-16 --flavor small ins1
+2018-11-24 22:11:56 INFO      server create --image linux-ubuntu-16 --flavor medium inst2
+2018-11-24 22:12:04 INFO     aggiestack admin show instances
+2018-11-24 22:12:04 INFO     SUCCESS
+2018-11-24 22:12:04 INFO     SUCCESS
+2018-11-24 22:12:19 INFO     admin show instances
+2018-11-24 22:12:33 INFO     aggiestack server create --image linux-ubuntu-16 --flavor small ins1
+2018-11-24 22:12:45 INFO     Starting Logging ...
+2018-11-24 22:13:02 INFO      aggiestack config --hardware hdwr-config.txt
+2018-11-24 22:13:02 INFO     SUCCESS
+2018-11-24 22:13:19 INFO      aggiestack config --images image-config.txt
+2018-11-24 22:13:19 INFO     SUCCESS
+2018-11-24 22:13:24 INFO      aggiestack config --flavors flavor-config.txt
+2018-11-24 22:13:24 INFO     SUCCESS
+2018-11-24 22:13:34 INFO     aggiestack server create --image linux-ubuntu-16 --flavor small ins1
+2018-11-24 22:13:34 INFO     SUCCESS
+2018-11-24 22:13:34 INFO     SUCCESS
+2018-11-24 22:13:46 INFO     aggiestack server create --image linux-ubuntu-16 --flavor medium ins2
+2018-11-24 22:13:46 INFO     SUCCESS
+2018-11-24 22:13:46 INFO     SUCCESS
+2018-11-24 22:13:52 INFO     admin show instances
+2018-11-24 22:13:57 INFO     aggiestack admin show instances
+2018-11-24 22:13:57 INFO     SUCCESS
+2018-11-24 22:13:57 INFO     SUCCESS
+2018-11-24 22:14:20 INFO      aggiestack server list
+2018-11-24 22:14:20 INFO     SUCCESS
+2018-11-24 22:14:42 INFO     aggiestack show hardware
+2018-11-24 22:14:42 INFO     SUCCESS
+2018-11-24 22:15:06 INFO     aggiestack admin remove m1
+2018-11-24 22:15:06 INFO     Machine removed
+2018-11-24 22:15:06 INFO     SUCCESS
+2018-11-24 22:15:08 INFO     aggiestack show hardware
+2018-11-24 22:15:08 INFO     SUCCESS
+2018-11-24 22:15:13 INFO      aggiestack server list
+2018-11-24 22:15:13 INFO     SUCCESS
+2018-11-24 22:15:35 INFO      aggiestack admin evacuate r1
+2018-11-24 22:15:35 INFO     SUCCESS
+2018-11-24 22:15:38 INFO     aggiestack show hardware
+2018-11-24 22:15:38 INFO     SUCCESS
+2018-11-24 22:36:51 INFO     quit
+2018-11-24 22:36:51 INFO     SUCCESS
+2018-11-24 22:36:51 INFO     Validation Finished ...
+2018-11-25 10:21:45 INFO     Starting Logging ...
+2018-11-25 10:22:10 INFO     aggiestack server delete m2
+2018-11-27 11:20:42 INFO     Starting Logging ...
+2018-11-28 18:49:15 INFO     Starting Logging ...
+2018-11-28 18:49:33 INFO      aggiestack server create --image linux-ubuntu-16 --flavor medium ins2
+2018-11-28 18:50:04 INFO     Starting Logging ...
+2018-11-28 18:50:05 INFO      aggiestack server create --image linux-ubuntu-16 --flavor medium ins2
+2018-11-28 18:51:30 INFO      aggiestack config --hardware hdwr-config.txt
+2018-11-28 18:51:30 INFO     SUCCESS
+2018-11-28 18:51:36 INFO      aggiestack config --images image-config.txt
+2018-11-28 18:51:36 INFO     SUCCESS
+2018-11-28 18:51:41 INFO      aggiestack config --flavors flavor-config.txt
+2018-11-28 18:51:42 INFO     SUCCESS
+2018-11-28 18:51:48 INFO      aggiestack server create --image linux-ubuntu-16 --flavor medi ins2
+2018-11-28 18:51:53 INFO      aggiestack server create --image linux-ubuntu-16 --flavor medium ins2
+2018-11-28 18:51:53 INFO     SUCCESS
+2018-11-28 18:51:53 INFO     SUCCESS
+2018-11-28 18:56:17 INFO     quit
+2018-11-28 18:56:17 INFO     SUCCESS
+2018-11-28 18:56:17 INFO     Validation Finished ...
+2018-11-28 19:24:46 INFO     Starting Logging ...
+2018-11-28 19:24:58 INFO     aggiestack admin r
+2018-11-28 19:24:58 INFO     SUCCESS
+2018-11-28 19:28:01 INFO     quit
+2018-11-28 19:28:01 INFO     SUCCESS
+2018-11-28 19:28:01 INFO     Validation Finished ...
+2018-11-28 19:30:27 INFO     Starting Logging ...
+2018-11-28 19:30:30 INFO     aggiestack admin r
+2018-11-28 19:30:30 ERROR    FAILURE
+2018-11-28 19:31:30 INFO     aggiestack server
+2018-11-28 19:31:30 ERROR    FAILURE
+2018-11-28 19:35:00 INFO     quit
+2018-11-28 19:35:00 INFO     SUCCESS
+2018-11-28 19:35:00 INFO     Validation Finished ...
+2018-11-28 19:44:33 INFO     Starting Logging ...
+2018-11-28 19:44:41 INFO     aggiestack server    list
+2018-11-28 19:44:41 INFO     SUCCESS
+2018-11-28 19:46:27 INFO     quit
+2018-11-28 19:46:27 INFO     SUCCESS
+2018-11-28 19:46:27 INFO     Validation Finished ...
+2018-11-28 19:46:47 INFO     Starting Logging ...
+2018-11-28 19:46:53 INFO     aggiestack admin evacuate
+2018-11-28 19:46:53 ERROR    FAILURE
+2018-11-28 19:52:59 INFO     quit
+2018-11-28 19:52:59 INFO     SUCCESS
+2018-11-28 19:52:59 INFO     Validation Finished ...
+2018-11-28 20:42:17 INFO     Starting Logging ...
+2018-11-28 20:42:23 INFO     aggiestack admin evacuate
+2018-11-28 20:42:23 ERROR    FAILURE
+2018-11-28 20:42:31 INFO     aggiestack server create --image l
+2018-11-28 20:42:59 INFO     Starting Logging ...
+2018-11-28 20:43:00 INFO     aggiestack server create --image l
+2018-11-28 20:43:19 INFO     Starting Logging ...
+2018-11-28 20:43:22 INFO     aggiestack server create --image l
+2018-11-28 20:44:42 INFO     Starting Logging ...
+2018-11-28 20:44:44 INFO     aggiestack server create --image l
+2018-11-28 20:47:20 INFO     Starting Logging ...
+2018-11-28 20:47:22 INFO     aggiestack server create --image l
+2018-11-28 20:47:22 ERROR    Incomplete command
+2018-11-28 20:47:30 INFO     aggiestack server create --image lrs --flavor dshjh
+2018-11-28 20:47:30 ERROR    Incomplete command
+2018-11-28 20:47:37 INFO     aggiestack server create --image lrs --flavor dshjh fds
+2018-11-28 20:47:45 INFO     quit
+2018-11-28 20:47:45 INFO     SUCCESS
+2018-11-28 20:47:45 INFO     Validation Finished ...
+2018-11-30 12:55:22 INFO     Starting Logging ...
+2018-11-30 12:56:23 INFO     aggiestack config --hardware hdwr-config.txt
+2018-11-30 12:56:23 INFO     SUCCESS
+2018-11-30 12:56:35 INFO     aggiestack show hardware
+2018-11-30 12:56:35 INFO     SUCCESS
+2018-11-30 12:56:47 INFO     
+2018-11-30 12:56:47 INFO     
+2018-11-30 12:56:48 INFO     aggiestack config --images image-config.txt
+2018-11-30 12:56:48 INFO     SUCCESS
+2018-11-30 12:56:49 INFO     
+2018-11-30 12:56:50 INFO     
+2018-11-30 12:56:57 INFO     aggiestack show images
+2018-11-30 12:56:57 INFO     SUCCESS
+2018-11-30 12:56:59 INFO     
+2018-11-30 12:56:59 INFO     
+2018-11-30 12:57:08 INFO     aggiestack config --flavors flavor-config.txt
+2018-11-30 12:57:08 INFO     SUCCESS
+2018-11-30 12:57:09 INFO     
+2018-11-30 12:57:17 INFO     aggiestack show flavors
+2018-11-30 12:57:17 INFO     SUCCESS
+2018-11-30 12:57:17 INFO     
+2018-11-30 12:57:28 INFO     aggiestack admin show instances
+2018-11-30 12:57:28 INFO     SUCCESS
+2018-11-30 12:57:28 INFO     SUCCESS
+2018-11-30 12:57:29 INFO     
+2018-11-30 12:57:38 INFO     aggiestack server create --image linux-ubuntu --flavor small my-first-instance
+2018-11-30 12:57:38 INFO     SUCCESS
+2018-11-30 12:57:38 INFO     SUCCESS
+2018-11-30 12:57:42 INFO     
+2018-11-30 12:57:50 INFO     aggiestack server create --image linux-ubuntu --flavor medium my-second-instance
+2018-11-30 12:57:50 INFO     SUCCESS
+2018-11-30 12:57:50 INFO     SUCCESS
+2018-11-30 12:58:49 INFO     
+2018-11-30 12:58:49 INFO     
+2018-11-30 12:58:58 INFO     aggiestack admin show instances
+2018-11-30 12:58:58 INFO     SUCCESS
+2018-11-30 12:58:58 INFO     SUCCESS
+2018-11-30 12:59:07 INFO     aggiestack server list
+2018-11-30 12:59:07 INFO     SUCCESS
+2018-11-30 12:59:16 INFO     
+2018-11-30 12:59:17 INFO     aggiestack admin show hardware
+2018-11-30 12:59:17 INFO     SUCCESS
+2018-11-30 12:59:17 INFO     SUCCESS
+2018-11-30 12:59:29 INFO     
+2018-11-30 12:59:29 INFO     
+2018-11-30 12:59:32 INFO     aggiestack server delete my-first-instance
+2018-11-30 12:59:33 INFO     
+2018-11-30 12:59:47 INFO     aggiestack admin show instances
+2018-11-30 12:59:47 INFO     SUCCESS
+2018-11-30 12:59:47 INFO     SUCCESS
+2018-11-30 12:59:48 INFO     
+2018-11-30 12:59:58 INFO     aggiestack admin show hardware
+2018-11-30 12:59:58 INFO     SUCCESS
+2018-11-30 12:59:58 INFO     SUCCESS
+2018-11-30 13:09:25 INFO     
+2018-11-30 13:09:25 INFO     
+2018-11-30 13:09:27 INFO     quit
+2018-11-30 13:09:27 INFO     SUCCESS
+2018-11-30 13:09:27 INFO     Validation Finished ...
+2018-11-30 13:10:25 INFO     Starting Logging ...
+2018-11-30 13:10:26 INFO     
+2018-11-30 13:10:26 INFO     
+2018-11-30 13:10:37 INFO     aggiestack config --hardware hdwr-config.txt
+2018-11-30 13:10:37 INFO     SUCCESS
+2018-11-30 13:10:38 INFO     
+2018-11-30 13:10:46 INFO     aggiestack show hardware
+2018-11-30 13:10:46 INFO     SUCCESS
+2018-11-30 13:10:48 INFO     
+2018-11-30 13:11:00 INFO     aggiestack config --images image-config.txt
+2018-11-30 13:11:00 INFO     SUCCESS
+2018-11-30 13:11:00 INFO     
+2018-11-30 13:11:08 INFO     aggiestack show images
+2018-11-30 13:11:08 INFO     SUCCESS
+2018-11-30 13:11:18 INFO     
+2018-11-30 13:11:18 INFO     
+2018-11-30 13:11:32 INFO     aggiestack config --flavors flavor-config.txt
+2018-11-30 13:11:32 INFO     SUCCESS
+2018-11-30 13:11:32 INFO     
+2018-11-30 13:11:43 INFO     aggiestack show flavors
+2018-11-30 13:11:43 INFO     SUCCESS
+2018-11-30 13:11:44 INFO     
+2018-11-30 13:11:55 INFO     aggiestack server create --image linux-ubuntu --flavor small my-first-instance
+2018-11-30 13:11:55 INFO     SUCCESS
+2018-11-30 13:11:55 INFO     SUCCESS
+2018-11-30 13:12:03 INFO     aggiestack server create --image linux-ubuntu --flavor medium my-second-instance
+2018-11-30 13:12:03 INFO     SUCCESS
+2018-11-30 13:12:03 INFO     SUCCESS
+2018-11-30 13:12:03 INFO     
+2018-11-30 13:12:15 INFO     aggiestack admin show instances
+2018-11-30 13:12:15 INFO     SUCCESS
+2018-11-30 13:12:15 INFO     SUCCESS
+2018-11-30 13:12:16 INFO     
+2018-11-30 13:12:26 INFO     aggiestack admin evacuate r1
+2018-11-30 13:12:26 INFO     SUCCESS
+2018-11-30 13:12:27 INFO     
+2018-11-30 13:12:39 INFO     aggiestack admin add -mem 8 -disk 4 -vcpus 4 -ip 128.0.0.1 -rack r1 newmachine
+2018-11-30 13:12:39 ERROR    Incorrect arguments for config
+2018-11-30 13:12:39 INFO     SUCCESS
+2018-11-30 13:13:03 INFO     
+2018-11-30 13:13:18 INFO     aggiestack admin show instances
+2018-11-30 13:13:18 INFO     SUCCESS
+2018-11-30 13:13:18 INFO     SUCCESS
+2018-11-30 13:22:45 INFO     quit
+2018-11-30 13:22:45 INFO     SUCCESS
+2018-11-30 13:22:45 INFO     Validation Finished ...
+2018-11-30 13:22:47 INFO     Starting Logging ...
+2018-11-30 13:22:54 INFO     aggiestack admin add -mem 8 -disk 4 -vcpus 4 -ip 128.0.0.1 -rack r1 newmachine
+2018-11-30 13:22:54 ERROR    This rack does not exist, can not add machine
+2018-11-30 13:22:54 INFO     SUCCESS
+2018-11-30 13:22:58 INFO     quit
+2018-11-30 13:22:58 INFO     SUCCESS
+2018-11-30 13:22:58 INFO     Validation Finished ...
+2018-11-30 13:23:02 INFO     Starting Logging ...
+2018-11-30 13:23:03 INFO     
+2018-11-30 13:23:03 INFO     
+2018-11-30 13:23:03 INFO     
+2018-11-30 13:23:09 INFO     aggiestack config --hardware hdwr-config.txt
+2018-11-30 13:23:09 INFO     SUCCESS
+2018-11-30 13:23:10 INFO     
+2018-11-30 13:23:16 INFO     aggiestack show hardware
+2018-11-30 13:23:17 INFO     SUCCESS
+2018-11-30 13:23:17 INFO     
+2018-11-30 13:23:24 INFO     aggiestack config --images image-config.txt
+2018-11-30 13:23:24 INFO     SUCCESS
+2018-11-30 13:23:25 INFO     
+2018-11-30 13:23:28 INFO     aggiestack show images
+2018-11-30 13:23:28 INFO     SUCCESS
+2018-11-30 13:23:32 INFO     aggiestack config --flavors flavor-config.txt
+2018-11-30 13:23:32 INFO     SUCCESS
+2018-11-30 13:23:32 INFO     
+2018-11-30 13:23:33 INFO     aggiestack show flavors
+2018-11-30 13:23:33 INFO     SUCCESS
+2018-11-30 13:23:47 INFO     aggiestack server create --image linux-ubuntu --flavor small my-first-instance
+2018-11-30 13:23:47 INFO     SUCCESS
+2018-11-30 13:23:47 INFO     SUCCESS
+2018-11-30 13:23:49 INFO     aggiestack server create --image linux-ubuntu --flavor medium my-second-instance
+2018-11-30 13:23:49 INFO     SUCCESS
+2018-11-30 13:23:49 INFO     SUCCESS
+2018-11-30 13:23:55 INFO     aggiestack admin show instances
+2018-11-30 13:23:55 INFO     SUCCESS
+2018-11-30 13:23:55 INFO     SUCCESS
+2018-11-30 13:24:05 INFO     aggiestack admin evacuate r1
+2018-11-30 13:24:05 INFO     SUCCESS
+2018-11-30 13:24:06 INFO     
+2018-11-30 13:24:09 INFO     aggiestack admin add -mem 8 -disk 4 -vcpus 4 -ip 128.0.0.1 -rack r1 newmachine
+2018-11-30 13:24:09 ERROR    This rack does not exist, can not add machine
+2018-11-30 13:24:09 INFO     SUCCESS
+2018-11-30 13:24:40 INFO     aggiestack admin show instances
+2018-11-30 13:24:40 INFO     SUCCESS
+2018-11-30 13:24:40 INFO     SUCCESS
+2018-11-30 13:28:15 INFO     
+2018-11-30 13:28:16 INFO     quit
+2018-11-30 13:28:16 INFO     SUCCESS
+2018-11-30 13:28:16 INFO     Validation Finished ...

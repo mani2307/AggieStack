@@ -1,0 +1,219 @@
+2018-09-22 15:52:48 INFO     Started
+2018-09-22 15:52:52 INFO     aggiestack show all
+2018-09-22 15:52:52 INFO     SUCCESS
+2018-09-22 15:56:18 INFO     aggiestack show all
+2018-09-22 15:56:18 INFO     SUCCESS
+2018-09-22 15:56:29 INFO     quit
+2018-09-22 15:56:29 INFO     SUCCESS
+2018-09-22 15:56:29 INFO     Finished
+2018-09-22 15:56:38 INFO     Starting Logging ...
+2018-09-22 15:56:40 INFO     aggiestack show all
+2018-09-22 15:56:40 INFO     SUCCESS
+2018-09-22 15:56:42 INFO     quit
+2018-09-22 15:56:42 INFO     SUCCESS
+2018-09-22 15:56:42 INFO     Validation Finished ...
+2018-09-22 16:07:11 INFO     Starting Logging ...
+2018-09-22 16:07:23 INFO     level=logging.DEBUG,
+2018-09-22 16:07:23 ERROR    FAILURE
+2018-09-22 16:07:23 INFO                         format='%(asctime)s %(levelname)-8s %(message)s',
+2018-09-22 16:07:23 ERROR    FAILURE
+2018-09-22 16:07:32 INFO                         datefmt='%a, %d %b %Y %H:%M:%S',
+2018-09-22 16:07:32 ERROR    FAILURE
+2018-09-22 16:07:33 INFO     
+2018-09-22 16:07:37 INFO     aggiestack config --hardware hdwr-config.txt 
+2018-09-22 16:07:37 INFO     SUCCESS
+2018-09-22 16:07:38 INFO     
+2018-09-22 16:07:40 INFO     aggiestack show all
+2018-09-22 16:07:40 INFO     SUCCESS
+2018-09-22 16:07:40 INFO     SUCCESS
+2018-09-22 16:08:23 INFO     
+2018-09-22 16:08:23 INFO     
+2018-09-22 16:08:24 INFO     
+2018-09-22 16:08:32 INFO     aggiestack config --hardware 2.txt
+2018-09-22 16:08:32 INFO     SUCCESS
+2018-09-22 16:08:34 INFO     aggiestack show all
+2018-09-22 16:08:34 INFO     SUCCESS
+2018-09-22 16:08:34 INFO     SUCCESS
+2018-09-22 17:40:21 INFO     aggiestack show all
+2018-09-22 17:40:21 INFO     SUCCESS
+2018-09-22 17:40:21 INFO     SUCCESS
+2018-09-22 17:40:21 INFO     
+2018-09-22 17:40:23 INFO     quit
+2018-09-22 17:40:23 INFO     SUCCESS
+2018-09-22 17:40:23 INFO     Validation Finished ...
+2018-09-22 17:40:25 INFO     Starting Logging ...
+2018-09-22 17:40:28 INFO     aggiestack show all
+2018-09-22 17:40:28 INFO     SUCCESS
+2018-09-22 17:40:33 INFO     aggiestack config --hardware 2.txt
+2018-09-22 17:40:33 INFO     SUCCESS
+2018-09-22 17:40:34 INFO     aggiestack show all
+2018-09-22 17:40:34 INFO     SUCCESS
+2018-09-22 17:40:34 INFO     SUCCESS
+2018-09-22 17:40:45 INFO     aggiestack config --hardware 2.txt
+2018-09-22 17:40:45 INFO     SUCCESS
+2018-09-22 17:40:47 INFO     aggiestack show all
+2018-09-22 17:40:47 INFO     SUCCESS
+2018-09-22 17:40:47 INFO     SUCCESS
+2018-09-22 17:47:15 INFO     quit
+2018-09-22 17:47:15 INFO     SUCCESS
+2018-09-22 17:47:15 INFO     Validation Finished ...
+2018-09-22 17:48:18 INFO     Starting Logging ...
+2018-09-22 17:48:23 INFO     aggiestack config --hardware 2.txt
+2018-09-22 17:48:23 INFO     SUCCESS
+2018-09-22 17:48:27 INFO     aggiestack config --hardware 2.txt
+2018-09-22 17:48:27 INFO     SUCCESS
+2018-09-22 17:48:30 INFO     aggiestack show all
+2018-09-22 17:48:30 INFO     SUCCESS
+2018-09-22 17:48:30 INFO     SUCCESS
+2018-09-22 17:48:40 INFO     aggiestack config --hardware 2.txt
+2018-09-22 17:48:40 INFO     SUCCESS
+2018-09-22 17:48:41 INFO     aggiestack show all
+2018-09-22 17:48:41 INFO     SUCCESS
+2018-09-22 17:48:41 INFO     SUCCESS
+2018-09-22 17:48:48 INFO     aggiestack show hardware
+2018-09-22 17:48:48 INFO     SUCCESS
+2018-09-22 17:49:23 INFO     quit
+2018-09-22 17:49:23 INFO     SUCCESS
+2018-09-22 17:49:23 INFO     Validation Finished ...
+2018-09-22 17:49:26 INFO     Starting Logging ...
+2018-09-22 17:49:29 INFO     aggiestack show hardware
+2018-09-22 17:49:29 INFO     SUCCESS
+2018-09-22 17:49:31 INFO     aggiestack show all
+2018-09-22 17:49:31 INFO     SUCCESS
+2018-09-22 17:49:34 INFO     aggiestack config --hardware 2.txt
+2018-09-22 17:49:34 INFO     SUCCESS
+2018-09-22 17:49:43 INFO     aggiestack config --hardware hdwr-config.txt 
+2018-09-22 17:49:43 INFO     SUCCESS
+2018-09-22 17:49:48 INFO     aggiestack show all
+2018-09-22 17:49:48 INFO     SUCCESS
+2018-09-22 17:49:48 INFO     SUCCESS
+2018-09-22 17:50:41 INFO     quit
+2018-09-22 17:50:41 INFO     SUCCESS
+2018-09-22 17:50:41 INFO     Validation Finished ...
+2018-09-22 17:50:44 INFO     Starting Logging ...
+2018-09-22 17:50:48 INFO     aggiestack config --hardware hdwr-config.txt 
+2018-09-22 17:50:48 INFO     SUCCESS
+2018-09-22 17:50:50 INFO     aggiestack config --hardware 2.txt
+2018-09-22 17:50:56 INFO     aggiestack show all
+2018-09-22 17:50:56 INFO     SUCCESS
+2018-09-22 17:50:56 INFO     SUCCESS
+2018-09-22 17:51:09 INFO     quit
+2018-09-22 17:51:09 INFO     SUCCESS
+2018-09-22 17:51:09 INFO     Validation Finished ...
+2018-09-22 17:52:56 INFO     Starting Logging ...
+2018-09-22 17:52:59 INFO     aggiestack config --hardware 2.txt
+2018-09-22 17:52:59 INFO     Data not proper, config not complete, Skipping file ...
+2018-09-22 17:53:04 INFO     aggiestack show all
+2018-09-22 17:53:04 INFO     SUCCESS
+2018-09-22 17:53:07 INFO     aggiestack config --hardware hdwr-config.txt 
+2018-09-22 17:53:07 INFO     SUCCESS
+2018-09-22 17:53:09 INFO     aggiestack show all
+2018-09-22 17:53:09 INFO     SUCCESS
+2018-09-22 17:53:09 INFO     SUCCESS
+2018-09-22 17:53:22 INFO     aggiestack config --hardware 2.txt
+2018-09-22 17:53:22 INFO     SUCCESS
+2018-09-22 17:53:23 INFO     aggiestack show all
+2018-09-22 17:53:23 INFO     SUCCESS
+2018-09-22 17:53:23 INFO     SUCCESS
+2018-09-22 18:03:30 INFO     quit
+2018-09-22 18:03:30 INFO     SUCCESS
+2018-09-22 18:03:30 INFO     Validation Finished ...
+2018-09-22 18:05:03 INFO     Starting Logging ...
+2018-09-22 18:05:06 INFO     aggiestack config --hardware 2.txt
+2018-09-22 18:05:30 INFO     Starting Logging ...
+2018-09-22 18:05:31 INFO     aggiestack config --hardware 2.txt
+2018-09-22 18:05:55 INFO     Starting Logging ...
+2018-09-22 18:05:56 INFO     aggiestack config --hardware 2.txt
+2018-09-22 18:05:56 INFO     Data not proper, config not complete, Skipping file ...
+2018-09-22 18:06:02 INFO     aggiestack config --hardware hdwr-config.txt 
+2018-09-22 18:06:02 INFO     SUCCESS
+2018-09-22 18:06:04 INFO     aggiestack show all
+2018-09-22 18:06:04 INFO     SUCCESS
+2018-09-22 18:06:04 INFO     SUCCESS
+2018-09-22 18:06:12 INFO     aggiestack config --hardware 2.txt
+2018-09-22 18:06:12 INFO     Data not proper, config not complete, Skipping file ...
+2018-09-22 18:06:22 INFO     aggiestack config --hardware 2.txt
+2018-09-22 18:06:22 INFO     SUCCESS
+2018-09-22 18:06:24 INFO     aggiestack show all
+2018-09-22 18:06:25 INFO     SUCCESS
+2018-09-22 18:06:25 INFO     SUCCESS
+2018-09-22 18:09:57 INFO     aggiestack show all
+2018-09-22 18:09:57 INFO     SUCCESS
+2018-09-22 18:09:57 INFO     SUCCESS
+2018-09-22 18:10:07 INFO     aggiestack admin show hardware
+2018-09-22 18:11:13 INFO     Starting Logging ...
+2018-09-22 18:11:15 INFO     aggiestack config --hardware 2.txt
+2018-09-22 18:11:41 INFO     Starting Logging ...
+2018-09-22 18:11:42 INFO     aggiestack config --hardware 2.txt
+2018-09-22 18:11:42 INFO     SUCCESS
+2018-09-22 18:11:45 INFO     aggiestack config --hardware hdwr-config.txt 
+2018-09-22 18:11:45 INFO     SUCCESS
+2018-09-22 18:11:47 INFO     aggiestack show all
+2018-09-22 18:11:47 INFO     SUCCESS
+2018-09-22 18:11:47 INFO     SUCCESS
+2018-09-22 18:12:02 INFO     aggiestack admin show hardware
+2018-09-22 18:12:48 INFO     Starting Logging ...
+2018-09-22 18:12:50 INFO     aggiestack config --hardware hdwr-config.txt 
+2018-09-22 18:12:50 INFO     SUCCESS
+2018-09-22 18:12:52 INFO     aggiestack admin show hardware
+2018-09-22 18:14:20 INFO     Starting Logging ...
+2018-09-22 18:14:22 INFO     aggiestack config --hardware 2.txt
+2018-09-22 18:14:22 INFO     SUCCESS
+2018-09-22 18:14:29 INFO     aggiestack admin show hardware
+2018-09-22 18:14:29 INFO     SUCCESS
+2018-09-22 18:14:29 INFO     SUCCESS
+2018-09-22 18:14:36 INFO     aggiestack config --hardware hdwr-config.txt 
+2018-09-22 18:14:36 INFO     SUCCESS
+2018-09-22 18:14:38 INFO     aggiestack admin show hardware
+2018-09-22 18:14:38 INFO     SUCCESS
+2018-09-22 18:14:38 INFO     SUCCESS
+2018-09-22 18:14:42 INFO     aggiestack show all
+2018-09-22 18:14:42 INFO     SUCCESS
+2018-09-22 18:14:42 INFO     SUCCESS
+2018-09-22 18:22:39 INFO     aggiestack show all
+2018-09-22 18:22:39 INFO     SUCCESS
+2018-09-22 18:22:39 INFO     SUCCESS
+2018-09-22 18:22:56 INFO     aggiestack config --hardware 2.txt 
+2018-09-22 18:22:56 INFO     SUCCESS
+2018-09-22 18:22:58 INFO     aggiestack show all
+2018-09-22 18:22:58 INFO     SUCCESS
+2018-09-22 18:22:58 INFO     SUCCESS
+2018-09-22 18:23:18 INFO     aggiestack config --hardware 2.txt
+2018-09-22 18:23:18 INFO     SUCCESS
+2018-09-22 18:23:21 INFO     aggiestack admin show hardware
+2018-09-22 18:23:21 INFO     SUCCESS
+2018-09-22 18:23:21 INFO     SUCCESS
+2018-09-22 18:24:22 INFO     aggiestack admin show hardware
+2018-09-22 18:24:22 INFO     SUCCESS
+2018-09-22 18:24:22 INFO     SUCCESS
+2018-09-22 18:24:23 INFO     quit
+2018-09-22 18:24:23 INFO     SUCCESS
+2018-09-22 18:24:23 INFO     Validation Finished ...
+2018-09-22 18:24:24 INFO     Starting Logging ...
+2018-09-22 18:24:28 INFO     aggiestack admin show hardware
+2018-09-22 18:24:28 INFO     SUCCESS
+2018-09-22 18:24:28 INFO     SUCCESS
+2018-09-22 18:24:30 INFO     aggiestack config --hardware 2.txt
+2018-09-22 18:24:30 INFO     SUCCESS
+2018-09-22 18:24:32 INFO     aggiestack show all
+2018-09-22 18:24:32 INFO     SUCCESS
+2018-09-22 18:24:32 INFO     SUCCESS
+2018-09-22 18:24:37 INFO     aggiestack config --hardware hdwr-config.txt 
+2018-09-22 18:24:37 INFO     SUCCESS
+2018-09-22 18:24:39 INFO     aggiestack admin show hardware
+2018-09-22 18:24:39 INFO     SUCCESS
+2018-09-22 18:24:39 INFO     SUCCESS
+2018-09-22 18:27:07 INFO     quit
+2018-09-22 18:27:07 INFO     SUCCESS
+2018-09-22 18:27:07 INFO     Validation Finished ...
+2018-11-18 19:24:53 INFO     Starting Logging ...
+2018-11-18 19:24:55 INFO     a
+2018-11-18 19:24:55 ERROR    FAILURE
+2018-11-18 19:25:17 INFO     
+2018-11-18 19:25:17 INFO     
+2018-11-18 19:25:17 INFO     
+2018-11-18 19:25:20 INFO     exit
+2018-11-18 19:25:20 ERROR    FAILURE
+2018-11-18 19:25:24 INFO     quit
+2018-11-18 19:25:24 INFO     SUCCESS
+2018-11-18 19:25:24 INFO     Validation Finished ...
